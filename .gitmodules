@@ -1,0 +1,3 @@
+[submodule "hardware/EBAZ4205"]
+	path = hardware/EBAZ4205
+	url = https://github.com/konosubakonoakua/EBAZ4205
